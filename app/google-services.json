@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "955597381033",
+    "firebase_url": "https://croblaze-93232.firebaseio.com",
+    "project_id": "croblaze-93232",
+    "storage_bucket": "croblaze-93232.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955597381033:android:4acfb53e5a049b66",
+        "android_client_info": {
+          "package_name": "com.satyam.croblaze"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955597381033-1ljn84rkg134scrp1rirupcn829p3fmk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.satyam.croblaze",
+            "certificate_hash": "5008dbbd94263a8d64dda7e9b68f1ab7f55a416e"
+          }
+        },
+        {
+          "client_id": "955597381033-52pqprakq5rcv9k1b43h8q7bpogqcptv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw0l0v6Nwc_1uQpEPVsJOV2YNdX6Suwv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955597381033-52pqprakq5rcv9k1b43h8q7bpogqcptv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

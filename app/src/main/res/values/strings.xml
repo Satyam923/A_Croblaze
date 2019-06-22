@@ -1,0 +1,41 @@
+<!--
+<resources>
+    <string name="app_name">Croblaze</string>
+    <string name="facebook_app_id">2143514335767754</string>
+    <string name="fb_login_protocol_scheme">fb2143514335767754</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="got_it">GOT IT</string>
+    <string name="welcome">Intro slider example by Tutorialwing.com</string>
+    <string name="slide1_desc">A platform where you will get free study materials from beginning to advance levels...</string>
+    <string name="slide1_title">Welcome to Croblaze</string>
+    <string name="slide2_desc">Tag Line</string>
+    <string name="slide2_title">Croblaze</string>
+    <string name="slide3_desc">Tag Line 2</string>
+    <string name="slide3_title">Croblaze</string>
+    <string name="slide4_desc">Get some more interesting things on tutorialwing.... :)</string>
+    <string name="slide4_title">Want some more interesting stuffs?</string>
+</resources>
+-->
+
+<resources>
+    <string name="app_name">Croblaze</string>
+    <string name="facebook_app_id">2143514335767754</string>
+    <string name="fb_login_protocol_scheme">fb2143514335767754</string>
+
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Welcome to Javatpoint!</string>
+    <string name="slide_1_desc">Javatpoint is passionate to offer better technical content to the world.</string>
+
+    <string name="slide_2_title">Android</string>
+    <string name="slide_2_desc">Android is a mobile operating system developed by Google.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
